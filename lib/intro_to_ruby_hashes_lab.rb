@@ -1,4 +1,4 @@
-def my_hash_creator(best_DOG, "Obie")
+def my_hash_creator(best_dog, "Obie")
 
 end
 
