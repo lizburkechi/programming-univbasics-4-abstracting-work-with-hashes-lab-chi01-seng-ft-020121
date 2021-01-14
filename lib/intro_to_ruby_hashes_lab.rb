@@ -3,7 +3,7 @@ def my_hash_creator(key, value)
     :pets_name => "Obie",
     :coat_color => "black"
   }
-  my_hash_creator
+
 end
 
 def read_from_hash(hash, key)
