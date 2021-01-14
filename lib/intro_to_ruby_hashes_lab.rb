@@ -1,7 +1,7 @@
 def my_hash_creator(obie, black)
   {
-    :pets_name => "Obie",
-    :coat_color => "Black"
+    :pets_name => "obie",
+    :coat_color => "black"
   }
 
 end
