@@ -1,5 +1,6 @@
-def my_hash_creator(best_dog,Obie)
-  {:best_dog => "Obie"}
+def my_hash_creator(pets_name, coat_color)
+  {:pets_name => "Obie", :coat_color = "black"}
+  my_hash_creator
 end
 
 def read_from_hash(hash, key)
